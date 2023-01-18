@@ -4,8 +4,8 @@ dill
 dominate
 matplotlib
 mlflow
-opencv
-python-lmdb
+opencv-python
+lmdb
 scikit-image
 scipy
 tensorboard
